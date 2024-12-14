@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWwsSoRoG+mG4juRQJ14tLRXAkMk1MjCj/5YkdcrHEjAP5nVzGG4L5eV99e1BXQQrDzU6doYSFwiacaMSfpP3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\פרוייקט api\\1\\ConsoleApp1\\FileBundler\\FileBundler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
